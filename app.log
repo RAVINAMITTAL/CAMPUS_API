@@ -1,0 +1,387 @@
+2026-06-17 12:30:58,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 12:30:58,621 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 12:30:58,622 - INFO -  * Restarting with stat
+2026-06-17 12:30:59,676 - WARNING -  * Debugger is active!
+2026-06-17 12:30:59,679 - INFO -  * Debugger PIN: 957-095-859
+2026-06-17 12:53:19,917 - INFO -  * Detected change in 'D:\\campus-api\\app.py', reloading
+2026-06-17 12:53:19,924 - INFO -  * Detected change in 'D:\\campus-api\\app.py', reloading
+2026-06-17 12:53:20,133 - INFO -  * Restarting with stat
+2026-06-17 12:53:21,922 - WARNING -  * Debugger is active!
+2026-06-17 12:53:21,922 - WARNING -  * Debugger is active!
+2026-06-17 12:53:21,926 - INFO -  * Debugger PIN: 957-095-859
+2026-06-17 12:53:21,926 - INFO -  * Debugger PIN: 957-095-859
+2026-06-17 12:53:44,540 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 12:53:44,540 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 12:53:57,762 - INFO - GET /apidocs/
+2026-06-17 12:53:57,944 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:57] "GET /apidocs/ HTTP/1.1" 200 -
+2026-06-17 12:53:57,977 - INFO - GET /flasgger_static/swagger-ui.css
+2026-06-17 12:53:57,979 - INFO - GET /flasgger_static/swagger-ui-standalone-preset.js
+2026-06-17 12:53:57,982 - INFO - GET /flasgger_static/swagger-ui-bundle.js
+2026-06-17 12:53:57,984 - INFO - GET /flasgger_static/lib/jquery.min.js
+2026-06-17 12:53:58,253 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:58] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2026-06-17 12:53:58,408 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:58] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2026-06-17 12:53:58,858 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:58] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2026-06-17 12:53:59,476 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:59] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2026-06-17 12:53:59,958 - INFO - GET /apispec.json
+2026-06-17 12:53:59,985 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:59] "GET /apispec.json HTTP/1.1" 200 -
+2026-06-17 12:53:59,987 - INFO - GET /flasgger_static/favicon-32x32.png
+2026-06-17 12:53:59,995 - INFO - 127.0.0.1 - - [17/Jun/2026 12:53:59] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+2026-06-17 12:56:29,728 - INFO - GET /
+2026-06-17 12:56:29,728 - INFO - 127.0.0.1 - - [17/Jun/2026 12:56:29] "GET / HTTP/1.1" 200 -
+2026-06-17 12:58:21,486 - INFO - GET /api/v1/departments/1/students
+2026-06-17 12:58:21,537 - INFO - 127.0.0.1 - - [17/Jun/2026 12:58:21] "GET /api/v1/departments/1/students HTTP/1.1" 200 -
+2026-06-17 12:58:39,518 - INFO - GET /api/v1/departments/100/students
+2026-06-17 12:58:39,521 - INFO - 127.0.0.1 - - [17/Jun/2026 12:58:39] "[33mGET /api/v1/departments/100/students HTTP/1.1[0m" 404 -
+2026-06-17 13:00:21,564 - INFO - GET /
+2026-06-17 13:00:21,564 - INFO - 127.0.0.1 - - [17/Jun/2026 13:00:21] "GET / HTTP/1.1" 200 -
+2026-06-17 13:01:15,792 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 13:01:15,792 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 13:04:07,956 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 13:04:07,958 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 13:25:43,023 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 13:25:43,023 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 13:25:43,028 - INFO -  * Restarting with stat
+2026-06-17 13:25:45,131 - WARNING -  * Debugger is active!
+2026-06-17 13:25:45,143 - INFO -  * Debugger PIN: 957-095-859
+2026-06-17 13:25:51,856 - INFO -  * Detected change in 'D:\\campus-api\\app.py', reloading
+2026-06-17 13:25:52,096 - INFO -  * Restarting with stat
+2026-06-17 13:25:53,938 - WARNING -  * Debugger is active!
+2026-06-17 13:25:53,942 - INFO -  * Debugger PIN: 957-095-859
+2026-06-17 13:27:41,784 - INFO -  * Detected change in 'D:\\campus-api\\app.py', reloading
+2026-06-17 13:27:42,048 - INFO -  * Restarting with stat
+2026-06-17 13:28:21,899 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 13:28:21,900 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 13:28:36,243 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 13:28:36,244 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 13:30:47,314 - INFO - GET /apidocs/
+2026-06-17 13:30:47,433 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:47] "GET /apidocs/ HTTP/1.1" 200 -
+2026-06-17 13:30:47,525 - INFO - GET /flasgger_static/swagger-ui.css
+2026-06-17 13:30:47,560 - INFO - GET /flasgger_static/swagger-ui-bundle.js
+2026-06-17 13:30:47,562 - INFO - GET /flasgger_static/swagger-ui-standalone-preset.js
+2026-06-17 13:30:47,566 - INFO - GET /flasgger_static/lib/jquery.min.js
+2026-06-17 13:30:47,841 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:47] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2026-06-17 13:30:47,879 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:47] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2026-06-17 13:30:47,883 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:47] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2026-06-17 13:30:47,886 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:47] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2026-06-17 13:30:49,617 - INFO - GET /apispec.json
+2026-06-17 13:30:49,681 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:49] "GET /apispec.json HTTP/1.1" 200 -
+2026-06-17 13:30:49,684 - INFO - GET /flasgger_static/favicon-32x32.png
+2026-06-17 13:30:49,686 - INFO - 127.0.0.1 - - [17/Jun/2026 13:30:49] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+2026-06-17 14:35:32,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 14:35:32,795 - INFO - [33mPress CTRL+C to quit[0m
+2026-06-17 14:46:25,565 - INFO - GET /
+2026-06-17 14:48:03,722 - INFO - GET /
+2026-06-17 14:48:03,725 - INFO - POST /api/v1/auth/register
+2026-06-17 14:48:56,378 - INFO - GET /
+2026-06-17 14:48:56,381 - INFO - POST /api/v1/auth/register
+2026-06-17 14:48:56,397 - INFO - POST /api/v1/auth/login
+2026-06-17 14:48:56,532 - INFO - User pytestuser logged in
+2026-06-17 14:48:56,573 - INFO - POST /api/v1/auth/login
+2026-06-17 14:48:56,707 - INFO - User pytestuser logged in
+2026-06-17 14:48:56,709 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:01:05,979 - INFO - GET /
+2026-06-17 18:01:05,989 - INFO - POST /api/v1/auth/register
+2026-06-17 18:01:06,035 - INFO - POST /api/v1/auth/login
+2026-06-17 18:01:06,301 - INFO - User pytestuser logged in
+2026-06-17 18:01:06,310 - INFO - POST /api/v1/auth/login
+2026-06-17 18:01:06,568 - INFO - User pytestuser logged in
+2026-06-17 18:01:06,571 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:01:06,582 - INFO - POST /api/v1/auth/login
+2026-06-17 18:01:07,090 - INFO - POST /api/v1/auth/login
+2026-06-17 18:01:07,376 - INFO - GET /students
+2026-06-17 18:01:07,388 - INFO - GET /students
+2026-06-17 18:03:02,681 - INFO - GET /
+2026-06-17 18:03:02,689 - INFO - POST /api/v1/auth/register
+2026-06-17 18:03:02,721 - INFO - POST /api/v1/auth/login
+2026-06-17 18:03:02,951 - INFO - User pytestuser logged in
+2026-06-17 18:03:02,956 - INFO - POST /api/v1/auth/login
+2026-06-17 18:03:03,198 - INFO - User pytestuser logged in
+2026-06-17 18:03:03,200 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:03:03,210 - INFO - POST /api/v1/auth/login
+2026-06-17 18:03:03,675 - INFO - POST /api/v1/auth/login
+2026-06-17 18:03:03,919 - INFO - GET /students
+2026-06-17 18:03:03,930 - INFO - GET /students
+2026-06-17 18:04:48,283 - INFO - GET /
+2026-06-17 18:04:48,291 - INFO - POST /api/v1/auth/register
+2026-06-17 18:04:48,314 - INFO - POST /api/v1/auth/login
+2026-06-17 18:04:48,527 - INFO - User pytestuser logged in
+2026-06-17 18:04:48,531 - INFO - POST /api/v1/auth/login
+2026-06-17 18:04:48,781 - INFO - User pytestuser logged in
+2026-06-17 18:04:48,783 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:04:48,795 - INFO - POST /api/v1/auth/login
+2026-06-17 18:04:49,288 - INFO - POST /api/v1/auth/login
+2026-06-17 18:04:49,607 - INFO - GET /students
+2026-06-17 18:04:49,618 - INFO - GET /students
+2026-06-17 18:09:07,065 - INFO - GET /
+2026-06-17 18:09:07,073 - INFO - POST /api/v1/auth/register
+2026-06-17 18:09:07,093 - INFO - POST /api/v1/auth/login
+2026-06-17 18:09:07,320 - INFO - User pytestuser logged in
+2026-06-17 18:09:07,324 - INFO - POST /api/v1/auth/login
+2026-06-17 18:09:07,601 - INFO - User pytestuser logged in
+2026-06-17 18:09:07,606 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:09:07,620 - INFO - POST /api/v1/auth/login
+2026-06-17 18:09:08,214 - INFO - POST /api/v1/auth/login
+2026-06-17 18:11:09,940 - INFO - GET /
+2026-06-17 18:11:09,949 - INFO - POST /api/v1/auth/register
+2026-06-17 18:11:10,238 - INFO - POST /api/v1/auth/login
+2026-06-17 18:11:10,476 - INFO - User pytestuserr logged in
+2026-06-17 18:11:10,500 - INFO - POST /api/v1/auth/login
+2026-06-17 18:11:10,721 - INFO - User pytestuserr logged in
+2026-06-17 18:11:10,723 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:11:10,761 - INFO - POST /api/v1/auth/login
+2026-06-17 18:11:11,001 - INFO - User pytestuserr logged in
+2026-06-17 18:11:11,004 - INFO - POST /api/v1/students/fill
+2026-06-17 18:11:11,264 - INFO - POST /api/v1/auth/login
+2026-06-17 18:11:11,497 - INFO - User pytestuserr logged in
+2026-06-17 18:11:11,500 - INFO - GET /api/v1/students/detail
+2026-06-17 18:15:57,755 - INFO - GET /
+2026-06-17 18:15:57,765 - INFO - POST /api/v1/auth/register
+2026-06-17 18:15:57,796 - INFO - POST /api/v1/auth/login
+2026-06-17 18:15:58,046 - INFO - User pytestuserr logged in
+2026-06-17 18:15:58,051 - INFO - POST /api/v1/auth/login
+2026-06-17 18:15:58,287 - INFO - User pytestuserr logged in
+2026-06-17 18:15:58,290 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:15:58,302 - INFO - POST /api/v1/auth/login
+2026-06-17 18:15:58,517 - INFO - User pytestuserr logged in
+2026-06-17 18:15:58,520 - INFO - POST /api/v1/students/fill
+2026-06-17 18:15:58,567 - INFO - POST /api/v1/auth/login
+2026-06-17 18:15:58,927 - INFO - User pytestuserr logged in
+2026-06-17 18:15:58,929 - INFO - GET /api/v1/students/detail
+2026-06-17 18:24:24,260 - INFO - GET /
+2026-06-17 18:24:24,273 - INFO - POST /api/v1/auth/register
+2026-06-17 18:24:24,333 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:24,574 - INFO - User pytestuserr logged in
+2026-06-17 18:24:24,580 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:24,802 - INFO - User pytestuserr logged in
+2026-06-17 18:24:24,805 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:24:24,816 - INFO - GET /api/v1/students/detail
+2026-06-17 18:24:24,821 - INFO - GET /api/v1/students/detail
+2026-06-17 18:24:24,826 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:25,063 - INFO - User pytestuserr logged in
+2026-06-17 18:24:25,067 - INFO - POST /api/v1/students/fill
+2026-06-17 18:24:25,351 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:25,593 - INFO - User pytestuserr logged in
+2026-06-17 18:24:25,595 - INFO - GET /api/v1/students/detail
+2026-06-17 18:24:25,614 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:25,855 - INFO - User pytestuserr logged in
+2026-06-17 18:24:25,857 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:24:25,870 - INFO - User 5 logged out
+2026-06-17 18:24:25,876 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:25,877 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:24:25,894 - INFO - POST /api/v1/auth/login
+2026-06-17 18:24:25,895 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:25:28,707 - INFO - GET /
+2026-06-17 18:25:28,718 - INFO - POST /api/v1/auth/register
+2026-06-17 18:25:28,748 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:28,982 - INFO - User pytestuserr logged in
+2026-06-17 18:25:28,986 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:29,244 - INFO - User pytestuserr logged in
+2026-06-17 18:25:29,248 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:25:29,272 - INFO - GET /api/v1/students/detail
+2026-06-17 18:25:29,282 - INFO - GET /api/v1/students/detail
+2026-06-17 18:25:29,294 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:29,548 - INFO - User pytestuserr logged in
+2026-06-17 18:25:29,550 - INFO - POST /api/v1/students/fill
+2026-06-17 18:25:29,857 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:30,117 - INFO - User pytestuserr logged in
+2026-06-17 18:25:30,121 - INFO - GET /api/v1/students/detail
+2026-06-17 18:25:30,141 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:30,396 - INFO - User pytestuserr logged in
+2026-06-17 18:25:30,398 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:25:30,411 - INFO - User 5 logged out
+2026-06-17 18:25:30,417 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:30,418 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:25:30,435 - INFO - POST /api/v1/auth/login
+2026-06-17 18:25:30,436 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:30:01,826 - INFO - GET /
+2026-06-17 18:30:01,832 - INFO - POST /api/v1/auth/register
+2026-06-17 18:30:01,863 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:02,087 - INFO - User pytestuserr logged in
+2026-06-17 18:30:02,092 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:02,388 - INFO - User pytestuserr logged in
+2026-06-17 18:30:02,391 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:30:02,406 - INFO - GET /api/v1/students/detail
+2026-06-17 18:30:02,413 - INFO - GET /api/v1/students/detail
+2026-06-17 18:30:02,418 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:02,658 - INFO - User pytestuserr logged in
+2026-06-17 18:30:02,662 - INFO - POST /api/v1/students/fill
+2026-06-17 18:30:02,953 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:03,147 - INFO - User pytestuserr logged in
+2026-06-17 18:30:03,150 - INFO - GET /api/v1/students/detail
+2026-06-17 18:30:03,165 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:03,363 - INFO - User pytestuserr logged in
+2026-06-17 18:30:03,366 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:30:03,380 - INFO - User 5 logged out
+2026-06-17 18:30:03,389 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:03,391 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:30:03,407 - INFO - POST /api/v1/auth/login
+2026-06-17 18:30:03,407 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:34:58,945 - INFO - GET /
+2026-06-17 18:34:58,952 - INFO - POST /api/v1/auth/register
+2026-06-17 18:34:58,985 - INFO - POST /api/v1/auth/login
+2026-06-17 18:34:59,227 - INFO - User pytestuserr logged in
+2026-06-17 18:34:59,231 - INFO - POST /api/v1/auth/login
+2026-06-17 18:34:59,464 - INFO - User pytestuserr logged in
+2026-06-17 18:34:59,466 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:34:59,476 - INFO - GET /api/v1/students/detail
+2026-06-17 18:34:59,479 - INFO - GET /api/v1/students/detail
+2026-06-17 18:34:59,483 - INFO - POST /api/v1/auth/login
+2026-06-17 18:34:59,757 - INFO - User pytestuserr logged in
+2026-06-17 18:34:59,760 - INFO - POST /api/v1/students/fill
+2026-06-17 18:35:00,009 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:00,221 - INFO - User pytestuserr logged in
+2026-06-17 18:35:00,223 - INFO - GET /api/v1/students/detail
+2026-06-17 18:35:00,241 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:00,455 - INFO - User pytestuserr logged in
+2026-06-17 18:35:00,458 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:35:00,472 - INFO - User 5 logged out
+2026-06-17 18:35:00,477 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:00,478 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:35:00,489 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:00,490 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:35:46,934 - INFO - GET /
+2026-06-17 18:35:46,939 - INFO - POST /api/v1/auth/register
+2026-06-17 18:35:46,964 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:47,213 - INFO - User pytestuserr logged in
+2026-06-17 18:35:47,217 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:47,454 - INFO - User pytestuserr logged in
+2026-06-17 18:35:47,456 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:35:47,467 - INFO - GET /api/v1/students/detail
+2026-06-17 18:35:47,472 - INFO - GET /api/v1/students/detail
+2026-06-17 18:35:47,476 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:47,717 - INFO - User pytestuserr logged in
+2026-06-17 18:35:47,720 - INFO - POST /api/v1/students/fill
+2026-06-17 18:35:47,740 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:47,983 - INFO - User pytestuserr logged in
+2026-06-17 18:35:47,986 - INFO - GET /api/v1/students/detail
+2026-06-17 18:35:48,012 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:48,233 - INFO - User pytestuserr logged in
+2026-06-17 18:35:48,236 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:35:48,247 - INFO - User 5 logged out
+2026-06-17 18:35:48,251 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:48,252 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:35:48,538 - INFO - POST /api/v1/auth/login
+2026-06-17 18:35:48,539 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:43:26,230 - INFO - GET /
+2026-06-17 18:43:26,237 - INFO - POST /api/v1/auth/register
+2026-06-17 18:43:26,491 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:26,732 - INFO - User pytestuserrr logged in
+2026-06-17 18:43:26,736 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:27,048 - INFO - User pytestuserrr logged in
+2026-06-17 18:43:27,052 - INFO - GET /api/v1/auth/profile
+2026-06-17 18:43:27,069 - INFO - GET /api/v1/students/detail
+2026-06-17 18:43:27,076 - INFO - GET /api/v1/students/detail
+2026-06-17 18:43:27,084 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:27,425 - INFO - User pytestuserrr logged in
+2026-06-17 18:43:27,429 - INFO - POST /api/v1/students/fill
+2026-06-17 18:43:27,454 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:27,697 - INFO - User pytestuserrr logged in
+2026-06-17 18:43:27,700 - INFO - GET /api/v1/students/detail
+2026-06-17 18:43:27,716 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:27,965 - INFO - User pytestuserrr logged in
+2026-06-17 18:43:27,968 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:43:27,977 - INFO - User 6 logged out
+2026-06-17 18:43:27,981 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:27,981 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:43:28,196 - INFO - POST /api/v1/auth/login
+2026-06-17 18:43:28,197 - INFO - ratelimit 5 per 1 minute (127.0.0.1) exceeded at endpoint: auth_bp.login
+2026-06-17 18:49:28,305 - INFO - POST /api/v1/auth/login
+2026-06-17 18:49:28,663 - INFO - User pytestuserrr logged in
+2026-06-17 18:49:28,670 - INFO - POST /api/v1/auth/refresh
+2026-06-17 18:49:52,558 - INFO - POST /api/v1/auth/login
+2026-06-17 18:49:52,797 - INFO - User pytestuserrr logged in
+2026-06-17 18:49:52,800 - INFO - POST /api/v1/auth/logout
+2026-06-17 18:49:52,812 - INFO - User 6 logged out
+2026-06-17 18:49:52,814 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:05:41,004 - INFO - GET /
+2026-06-17 19:05:41,009 - INFO - POST /api/v1/auth/register
+2026-06-17 19:05:41,035 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:41,252 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:41,256 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:41,524 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:41,525 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:05:41,534 - INFO - GET /api/v1/students/detail
+2026-06-17 19:05:41,538 - INFO - GET /api/v1/students/detail
+2026-06-17 19:05:41,542 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:41,856 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:41,860 - INFO - POST /api/v1/students/fill
+2026-06-17 19:05:42,160 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:42,432 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:42,435 - INFO - GET /api/v1/students/detail
+2026-06-17 19:05:42,458 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:42,679 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:42,681 - INFO - POST /api/v1/auth/logout
+2026-06-17 19:05:42,698 - INFO - User 6 logged out
+2026-06-17 19:05:42,702 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:42,909 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:42,911 - INFO - POST /api/v1/auth/logout
+2026-06-17 19:05:42,919 - INFO - User 6 logged out
+2026-06-17 19:05:42,920 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:05:42,927 - INFO - POST /api/v1/auth/login
+2026-06-17 19:05:43,187 - INFO - User pytestuserrr logged in
+2026-06-17 19:05:43,189 - INFO - POST /api/v1/auth/refresh
+2026-06-17 19:06:50,108 - INFO - GET /
+2026-06-17 19:06:50,115 - INFO - POST /api/v1/auth/register
+2026-06-17 19:06:50,148 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:50,389 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:50,393 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:50,625 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:50,626 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:06:50,634 - INFO - GET /api/v1/students/detail
+2026-06-17 19:06:50,638 - INFO - GET /api/v1/students/detail
+2026-06-17 19:06:50,642 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:50,892 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:50,894 - INFO - POST /api/v1/students/fill
+2026-06-17 19:06:50,914 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:51,169 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:51,172 - INFO - GET /api/v1/students/detail
+2026-06-17 19:06:51,204 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:51,451 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:51,454 - INFO - POST /api/v1/auth/logout
+2026-06-17 19:06:51,465 - INFO - User 6 logged out
+2026-06-17 19:06:51,471 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:51,708 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:51,710 - INFO - POST /api/v1/auth/logout
+2026-06-17 19:06:51,718 - INFO - User 6 logged out
+2026-06-17 19:06:51,720 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:06:51,726 - INFO - POST /api/v1/auth/login
+2026-06-17 19:06:51,978 - INFO - User pytestuserrr logged in
+2026-06-17 19:06:51,979 - INFO - POST /api/v1/auth/refresh
+2026-06-17 19:19:06,604 - INFO - GET /
+2026-06-17 19:19:06,624 - INFO - POST /api/v1/auth/register
+2026-06-17 19:19:06,677 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:06,937 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:06,944 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:07,171 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:07,173 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:19:07,189 - INFO - GET /api/v1/students/detail
+2026-06-17 19:19:07,195 - INFO - GET /api/v1/students/detail
+2026-06-17 19:19:07,202 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:07,436 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:07,439 - INFO - POST /api/v1/students/fill
+2026-06-17 19:19:07,627 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:07,847 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:07,850 - INFO - GET /api/v1/students/detail
+2026-06-17 19:19:07,872 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:08,111 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:08,113 - INFO - POST /api/v1/auth/logout
+2026-06-17 19:19:08,127 - INFO - User 6 logged out
+2026-06-17 19:19:08,134 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:08,397 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:08,400 - INFO - POST /api/v1/auth/logout
+2026-06-17 19:19:08,410 - INFO - User 6 logged out
+2026-06-17 19:19:08,412 - INFO - GET /api/v1/auth/profile
+2026-06-17 19:19:08,420 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:08,672 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:08,676 - INFO - POST /api/v1/auth/refresh
+2026-06-17 19:19:08,689 - INFO - POST /api/v1/auth/login
+2026-06-17 19:19:08,984 - INFO - User pytestuserrr logged in
+2026-06-17 19:19:08,986 - INFO - GET /api/v1/students/search
