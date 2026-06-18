@@ -162,4 +162,10 @@ if __name__ == "__main__":
     ##
     ##
     ##atual server looks like app.run(debug=True ,use_reloader = False)
-    app.run(host="0.0.0.0", port=5000,debug=True)
+    # app.run(host="0.0.0.0", port=5000,debug=True)
+    #to use render we ahve to do this
+    app.run(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 5000)),
+        debug=False
+    )
